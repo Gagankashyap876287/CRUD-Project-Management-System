@@ -26,8 +26,12 @@ POST:http://localhost:8080/projects this will create a new project.
 PUT:http://localhost:8080/projects/{id} this will update the project based on id.
 ![image](https://github.com/Gagankashyap876287/CRUD-Project-Management-System/assets/121686792/ff869ea4-8406-4304-bba0-80fd90ca765e)
 
-### Deleting an Customer
+### Deleting an Project
+DELETE:http://localhost:8080/projects/{id} this will delete the project based on id
 ![image](https://github.com/Gagankashyap876287/CRUD-Project-Management-System/assets/121686792/56fa3a8a-f6be-4212-beaa-36832b19bdde)
+Here you can see project having id=4 got deleted
+![image](https://github.com/Gagankashyap876287/CRUD-Project-Management-System/assets/121686792/a9261ca2-7883-4911-a590-8e1d677fe840)
+
 
 
 
