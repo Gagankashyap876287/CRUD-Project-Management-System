@@ -27,10 +27,17 @@ PUT:http://localhost:8080/projects/{id} this will update the project based on id
 ![image](https://github.com/Gagankashyap876287/CRUD-Project-Management-System/assets/121686792/ff869ea4-8406-4304-bba0-80fd90ca765e)
 
 ### Deleting an Project
-DELETE:http://localhost:8080/projects/{id} this will delete the project based on id
+DELETE:http://localhost:8080/projects/{id} this will delete the project based on id.
 ![image](https://github.com/Gagankashyap876287/CRUD-Project-Management-System/assets/121686792/56fa3a8a-f6be-4212-beaa-36832b19bdde)
 Here you can see project having id=4 got deleted
 ![image](https://github.com/Gagankashyap876287/CRUD-Project-Management-System/assets/121686792/a9261ca2-7883-4911-a590-8e1d677fe840)
+
+### Error Handling
+Here you can see the error handling and the error response.
+![image](https://github.com/Gagankashyap876287/CRUD-Project-Management-System/assets/121686792/94a6f51f-ed7c-4cd7-8aae-6519138af68d)
+![image](https://github.com/Gagankashyap876287/CRUD-Project-Management-System/assets/121686792/e085509e-5f2f-4f97-97ea-dbbce8a70622)
+
+
 
 
 
