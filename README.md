@@ -14,10 +14,17 @@ This project implements a basic CRUD (Create, Read, Update, Delete) program usin
 ## Features
 
 ### Reading projects
-GET:http://localhost:8080/projects This api will give the projects present in the database
+GET:http://localhost:8080/projects This api will give the projects present in the database.
 ![image](https://github.com/Gagankashyap876287/CRUD-Project-Management-System/assets/121686792/0c552112-0da0-41d4-a2f0-b889db0835d9)
 ![image](https://github.com/Gagankashyap876287/CRUD-Project-Management-System/assets/121686792/ce0ae51f-887a-4e10-a793-a9b76c0cab55)
 
 ### Creating a New Project
+POST:http://localhost:8080/projects this will create a new project.
+![image](https://github.com/Gagankashyap876287/CRUD-Project-Management-System/assets/121686792/c8eb0e5a-8230-433c-b71a-7bc20679a365)
+
+### Updating an Project
+PUT:http://localhost:8080/projects/{id} this will update the project based on id.
+![image](https://github.com/Gagankashyap876287/CRUD-Project-Management-System/assets/121686792/ff869ea4-8406-4304-bba0-80fd90ca765e)
+
 
 
