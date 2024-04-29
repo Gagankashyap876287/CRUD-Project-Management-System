@@ -12,3 +12,12 @@ This project implements a basic CRUD (Create, Read, Update, Delete) program usin
 5. Access the application at `http://localhost:8080/projects`.
 
 ## Features
+
+### Reading projects
+GET:http://localhost:8080/projects This api will give the projects present in the database
+![image](https://github.com/Gagankashyap876287/CRUD-Project-Management-System/assets/121686792/0c552112-0da0-41d4-a2f0-b889db0835d9)
+![image](https://github.com/Gagankashyap876287/CRUD-Project-Management-System/assets/121686792/ce0ae51f-887a-4e10-a793-a9b76c0cab55)
+
+### Creating a New Project
+
+
